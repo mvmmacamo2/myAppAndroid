@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPaytekBackground">#af1f23</color>
+    <color name="colorBackground2">#d2d2d1</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorTextPaytek">#991b1f</color>
+    <color name="colorDarkGray">#991b1f</color>
+</resources>

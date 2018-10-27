@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_dashboard" android:title="Dashboard" android:icon="@drawable/ic_dashboard_black_24dp"/>
+    <item android:id="@+id/item_estatisticas" android:title="Estatisticas" android:icon="@drawable/ic_laptop_black_24dp"/>
+    <item android:id="@+id/item_verificar_conta" android:title="Saldo" android:icon="@drawable/ic_balance_black_24dp"/>
+    <item android:id="@+id/item_sair" android:title="Sair" android:icon="@drawable/ic_exit_black_24dp"/>
+</menu>
